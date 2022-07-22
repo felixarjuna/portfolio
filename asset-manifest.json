@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.880ba180.css",
+    "main.js": "/portfolio/static/js/main.7556dc07.js",
+    "static/media/felix_about.png": "/portfolio/static/media/felix_about.b33264232956dcd39970.png",
+    "static/media/felix_banner.png": "/portfolio/static/media/felix_banner.85ac8a56e7465d2be7bf.png",
+    "static/media/google.svg": "/portfolio/static/media/google.2e79f5be6334198903588e43b8c92afc.svg",
+    "static/media/99designs.svg": "/portfolio/static/media/99designs.6b86660c8d28500c63b35c79f397e43f.svg",
+    "static/media/p1.jpg": "/portfolio/static/media/p1.8414a16a3ee64f39d422.jpg",
+    "static/media/p4.jpg": "/portfolio/static/media/p4.5d003c18371e0517c97a.jpg",
+    "static/media/p2.jpg": "/portfolio/static/media/p2.4b4bde089d049d2e3791.jpg",
+    "static/media/dribbble.svg": "/portfolio/static/media/dribbble.386a98c592f0731fafa1073c368d6bfc.svg",
+    "static/media/p5.jpg": "/portfolio/static/media/p5.e5baeb75cfac2b25ed56.jpg",
+    "static/media/p3.jpg": "/portfolio/static/media/p3.a2cb33e2504d07ab31e7.jpg",
+    "static/media/uplabs.svg": "/portfolio/static/media/uplabs.397a46db9037926f328a1af426ef403b.svg",
+    "static/media/behance.svg": "/portfolio/static/media/behance.1474ab873e65b2ec77ebd52c3a67e84e.svg",
+    "static/media/logo.png": "/portfolio/static/media/logo.40872d29099a71974298.png",
+    "static/media/arrow.svg": "/portfolio/static/media/arrow.62070236c77fc6a033ba.svg",
+    "static/media/accaro.svg": "/portfolio/static/media/accaro.9032eab32d8ec8571ced.svg",
+    "static/media/web_design.svg": "/portfolio/static/media/web_design.40ff063b18a4228ef8872610a85d73fd.svg",
+    "static/media/pattern.svg": "/portfolio/static/media/pattern.2c21ded3b42a486649d3.svg",
+    "static/media/uiux_design.svg": "/portfolio/static/media/uiux_design.a0ba91c68628d7e74e5012a3f3273852.svg",
+    "static/media/development.svg": "/portfolio/static/media/development.bdff7f6941e9e93f48c6774adb45e5aa.svg",
+    "static/media/ornament.svg": "/portfolio/static/media/ornament.3f491803bd328006822a.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/blob.svg": "/portfolio/static/media/blob.60b386ae949502449699.svg",
+    "static/media/rope.svg": "/portfolio/static/media/rope.73b6b93f7c11401b665c.svg",
+    "main.880ba180.css.map": "/portfolio/static/css/main.880ba180.css.map",
+    "main.7556dc07.js.map": "/portfolio/static/js/main.7556dc07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.880ba180.css",
+    "static/js/main.7556dc07.js"
+  ]
+}
