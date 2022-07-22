@@ -19,16 +19,16 @@ const Contact = () => {
         <h2
           className="section-title text-accent"
           data-aos="fade-down"
-          data-aos-offset="2200"
-          data-aos-delay="1300"
+          data-aos-offset="1600"
+          data-aos-delay="500"
         >
           {contact.title}
         </h2>
         <p
           className="section-subtitle"
           data-aos="fade-down"
-          data-aos-offset="2200"
-          data-aos-delay="1300"
+          data-aos-offset="1600"
+          data-aos-delay="500"
         >
           {contact.subtitle}
         </p>
@@ -36,8 +36,8 @@ const Contact = () => {
         <div
           className="max-w-[300px] lg:max-w-xs mx-auto mb-28"
           data-aos="fade-up"
-          data-aos-offset="2300"
-          data-aos-delay="1200"
+          data-aos-offset="1600"
+          data-aos-delay="600"
         >
           <img className="" src={Logo} alt="" />
         </div>
@@ -45,8 +45,8 @@ const Contact = () => {
         <div
           className="flex justify-center"
           data-aos="zoom-in"
-          data-aos-offset="2300"
-          data-aos-delay="1200"
+          data-aos-offset="1600"
+          data-aos-delay="600"
         >
           <Social />
         </div>

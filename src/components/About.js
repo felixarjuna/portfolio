@@ -14,9 +14,9 @@ const About = () => {
     >
       <div className="container mx-auto">
         <h2
-          className="section-title"
+          className="section-title mt-36"
           data-aos="fade-down"
-          data-aos-offset="300"
+          data-aos-offset="100"
         >
           {about.title}
           <span className="dot"></span>
@@ -24,7 +24,7 @@ const About = () => {
         <p
           className="section-subtitle lg:mb-[60px]"
           data-aos="fade-down"
-          data-aos-offset="300"
+          data-aos-offset="100"
         >
           {about.subtitle}
         </p>
@@ -33,11 +33,11 @@ const About = () => {
           {/* circle */}
           <div className="absolite w-32 h-32 bg-accent left-[38%] top-[42%] md:left-[50%] md:top-[35%] z-30 rounded-full mix-blend-hue blur-[30px"></div>
           <img
-            className="mx-auto z-20 relative"
+            className="mx-auto z-20 relative -mt-64"
             src={Image}
             alt=""
             data-aos="fade-left"
-            data-aos-offset="300"
+            data-aos-offset="100"
           />
         </div>
       </div>

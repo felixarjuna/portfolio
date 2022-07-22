@@ -10,16 +10,16 @@ const Contributors = () => {
         <h2
           className="section-title"
           data-aos="fade-right"
-          data-aos-offset="1300"
-          data-aos-delay="1200"
+          data-aos-offset="1000"
+          data-aos-delay="500"
         >
           {contributors.title} <span className="dot"></span>
         </h2>
         <p
           className="section-subtitle"
           data-aos="fade-left"
-          data-aos-offset="1400"
-          data-aos-delay="1200"
+          data-aos-offset="1000"
+          data-aos-delay="500"
         >
           {contributors.subtitle}
         </p>
@@ -27,8 +27,8 @@ const Contributors = () => {
         <div
           className="flex flex-col gap-10 items-center lg:flex-row lg:gap-20 lg:flex-wrap lg:justify-center lg:px-[204px]"
           data-aos="zoom-in"
-          data-aos-offset="1500"
-          data-aos-delay="1500"
+          data-aos-offset="1000"
+          data-aos-delay="500"
         >
           {contributors.brands.map((brand, item) => {
             return (
