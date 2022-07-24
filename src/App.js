@@ -20,6 +20,7 @@ const App = () => {
     Aos.init({
       duration: 2500,
       delay: 400,
+      disable: "mobile",
     });
   });
 
