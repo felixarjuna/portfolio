@@ -31,7 +31,7 @@ const About = () => {
         {/* image */}
         <div>
           {/* circle */}
-          <div className="absolute w-32 h-32 bg-accent left-[38%] top-[42%] md:left-[50%] md:top-[35%] z-30 rounded-full mix-blend-hue blur-[30px] lg:-ml-20"></div>
+          {/* <div className="absolute w-32 h-32 bg-accent left-[38%] top-[42%] md:left-[50%] md:top-[35%] z-30 rounded-full mix-blend-hue blur-[30px] lg:-ml-20"></div> */}
           <img
             className="mx-auto z-20 relative "
             src={Image}

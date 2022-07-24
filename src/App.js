@@ -20,7 +20,10 @@ const App = () => {
     Aos.init({
       duration: 2500,
       delay: 400,
-      disable: "mobile",
+      disable: () => {
+        var maxWidth = 1100;
+        return window.innerWidth <= maxWidth;
+      },
     });
   });
 
