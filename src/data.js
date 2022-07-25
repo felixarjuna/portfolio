@@ -20,11 +20,16 @@ import Brand4Image from "./assets/img/brands/uplabs.svg";
 import Brand5Image from "./assets/img/brands/99designs.svg";
 
 // portfolio images
-import PortfolioImage1 from "./assets/img/portfolio/p1.jpg";
-import PortfolioImage2 from "./assets/img/portfolio/p2.jpg";
-import PortfolioImage3 from "./assets/img/portfolio/p3.jpg";
-import PortfolioImage4 from "./assets/img/portfolio/p4.jpg";
-import PortfolioImage5 from "./assets/img/portfolio/p5.jpg";
+// import PortfolioImage1 from "./assets/img/portfolio/p1.jpg";
+// import PortfolioImage2 from "./assets/img/portfolio/p2.jpg";
+// import PortfolioImage3 from "./assets/img/portfolio/p3.jpg";
+// import PortfolioImage4 from "./assets/img/portfolio/p4.jpg";
+// import PortfolioImage5 from "./assets/img/portfolio/p5.jpg";
+import ProjectImage1 from "./assets/img/portfolio/project1.png";
+import ProjectImage2 from "./assets/img/portfolio/project2.png";
+import ProjectImage3 from "./assets/img/portfolio/project3.png";
+import ProjectImage4 from "./assets/img/portfolio/project4.png";
+import ProjectImage5 from "./assets/img/portfolio/project5.png";
 
 // nav
 export const nav = [
@@ -127,11 +132,11 @@ export const contributors = {
 export const portfolio = {
   preTitle: "Working on",
   title: "Projects.",
-  image1: PortfolioImage1,
-  image2: PortfolioImage2,
-  image3: PortfolioImage3,
-  image4: PortfolioImage4,
-  image5: PortfolioImage5,
+  image1: ProjectImage1,
+  image2: ProjectImage3,
+  image3: ProjectImage5,
+  image4: ProjectImage4,
+  image5: ProjectImage2,
 };
 
 // contact
