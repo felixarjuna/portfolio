@@ -50,7 +50,7 @@ const Portfolio = () => {
               data-aos-offset="1400"
               data-aos-delay="500"
             >
-              <a href="">
+              <a href="https://2yv83b.csb.app/">
                 <img className="rounded-md" src={portfolio.image3} alt="" />
               </a>
             </div>
@@ -60,7 +60,7 @@ const Portfolio = () => {
               data-aos-offset="1400"
               data-aos-delay="600"
             >
-              <a href="">
+              <a href="https://0eu8o2.csb.app/">
                 <img className="rounded-md" src={portfolio.image4} alt="" />
               </a>
             </div>
