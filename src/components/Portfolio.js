@@ -40,7 +40,9 @@ const Portfolio = () => {
               data-aos-offset="1300"
               data-aos-delay="400"
             >
-              <img className="rounded-md" src={portfolio.image2} alt="" />
+              <a href="https://felixarjuna.github.io/glasswebsite">
+                <img className="rounded-md" src={portfolio.image2} alt="" />
+              </a>
             </div>
             <div
               className="flex"
@@ -48,7 +50,9 @@ const Portfolio = () => {
               data-aos-offset="1400"
               data-aos-delay="500"
             >
-              <img className="rounded-md" src={portfolio.image3} alt="" />
+              <a href="">
+                <img className="rounded-md" src={portfolio.image3} alt="" />
+              </a>
             </div>
             <div
               className="flex"
@@ -56,7 +60,9 @@ const Portfolio = () => {
               data-aos-offset="1400"
               data-aos-delay="600"
             >
-              <img className="rounded-md" src={portfolio.image4} alt="" />
+              <a href="">
+                <img className="rounded-md" src={portfolio.image4} alt="" />
+              </a>
             </div>
             <div
               className="flex"
@@ -64,7 +70,10 @@ const Portfolio = () => {
               data-aos-offset="1400"
               data-aos-delay="700"
             >
-              <img className="rounded-md" src={portfolio.image5} alt="" />
+              <a href="https://felixarjuna.github.io/mod5_solution">
+                {" "}
+                <img className="rounded-md" src={portfolio.image5} alt="" />
+              </a>
             </div>
           </div>
         </div>
