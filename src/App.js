@@ -21,7 +21,7 @@ const App = () => {
       duration: 2500,
       delay: 400,
       disable: () => {
-        var maxWidth = 1100;
+        var maxWidth = 1366;
         return window.innerWidth <= maxWidth;
       },
     });
